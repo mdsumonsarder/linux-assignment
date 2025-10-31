@@ -1,3 +1,5 @@
+#!/bin/bash
+
 if id "developer" &>/dev/null; then
  echo "User 'developer' already exists."
 else
