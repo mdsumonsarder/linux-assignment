@@ -11,3 +11,8 @@ cat ~/var_log.txt
 ## file_and_dir.sh  
 chmod +x file_and_dir.sh  
 ./file_and_dir.sh  
+
+## file_mod.sh
+chmod +x file_mod.sh
+./file_mod.sh
+ls -l ~/example.txt
