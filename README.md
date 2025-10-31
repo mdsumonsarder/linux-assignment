@@ -23,5 +23,8 @@ chmod +x file_own.sh
 ls -l ~/project/report.txt  
 ls -ld ~/project  
 
- 
+## user_mod.sh
+chmod +x user_mod.sh  
+./user_mod.sh  
+id devuser  
 
