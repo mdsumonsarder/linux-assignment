@@ -28,3 +28,11 @@ chmod +x user_mod.sh
 ./user_mod.sh  
 id devuser  
 
+## soft_hard.sh
+chmod +x soft_hard.sh  
+./soft_hard.sh  
+ls -l ~/softlink.txt  
+ls -l ~/hardlink.txt  
+ls -i ~/hardlink.txt  
+cat ~/file_list.txt  
+
