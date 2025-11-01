@@ -36,3 +36,9 @@ ls -l ~/hardlink.txt
 ls -i ~/hardlink.txt  
 cat ~/file_list.txt  
 
+
+## package_install.sh
+chmod +x package_install.sh  
+./package_install.sh  
+tree --version  
+gcloud --version  
